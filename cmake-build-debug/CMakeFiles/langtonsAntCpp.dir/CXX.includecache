@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/abeli/CLionProjects/langtonsAntCpp/main.cpp
+iostream
+-
+SDL2/SDL_thread.h
+-
+SDL2/SDL.h
+-
+math.h
+-
+iostream
+-
+time.h
+-
+
